@@ -1,0 +1,91 @@
+.box .title.data-v-2003f811 {
+  width: 100%;
+  height: 90rpx;
+  background-color: #1a1a1a;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 0 25rpx;
+}
+.box .title .left.data-v-2003f811 {
+  color: #ececec;
+}
+.box .title .right.data-v-2003f811 {
+  color: #787878;
+}
+.content.data-v-2003f811 {
+  width: 100%;
+  background-color: #1a1a1a;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  padding: 10rpx;
+}
+.content .cbox.data-v-2003f811 {
+  display: inline-block;
+  background-color: #1a1a1a;
+  width: 50%;
+  height: 300rpx;
+  padding: 10rpx 10rpx;
+  position: relative;
+}
+.content .cbox .picture.data-v-2003f811 {
+  display: block;
+  width: 100%;
+  height: 200rpx;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  color: #f9faf4;
+}
+.content .cbox .p-state.data-v-2003f811 {
+  position: absolute;
+  left: 10rpx;
+  bottom: 100rpx;
+  color: #f9faf4;
+  font-size: 29rpx;
+}
+.content .cbox .p-type.data-v-2003f811 {
+  position: absolute;
+  right: 10rpx;
+  top: 10rpx;
+  color: #f9faf4;
+  background-color: #bc647a;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
+  font-size: 29rpx;
+}
+.content .cbox .c-title.data-v-2003f811 {
+  color: #f9faf4;
+}
+.content .cbox .c-watch.data-v-2003f811 {
+  color: #7c7c7c;
+  font-size: 30rpx;
+}
+.refresh.data-v-2003f811 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  color: #e295ae;
+  background-color: #1a1a1a;
+  border-bottom: 1rpx solid #2c2c2c;
+  width: 100%;
+  height: 88rpx;
+}
+.refresh .size.data-v-2003f811 {
+  font-size: 29rpx;
+}
+

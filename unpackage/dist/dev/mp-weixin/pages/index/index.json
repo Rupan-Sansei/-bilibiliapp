@@ -1,0 +1,10 @@
+{
+  "navigationBarBackgroundColor": "#007AFF",
+  "usingComponents": {
+    "uni-segmented-control": "/components/uni-segmented-control/uni-segmented-control",
+    "web-card": "/components/webCard",
+    "m-card": "/components/mCard",
+    "my-watch": "/components/myWatch",
+    "recommend": "/components/recommend"
+  }
+}
